@@ -1,1 +1,1 @@
-let a = "yoo123456";
+let a = "yoo12";
